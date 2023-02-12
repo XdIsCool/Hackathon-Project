@@ -1,0 +1,68 @@
+#history_section_title {
+    text-align: center;
+    color: rgb(225, 255, 0);
+    font-size: 60px;
+    
+}
+#history_section{
+    background-image: linear-gradient(rgb(9, 78, 253),rgb(255, 34, 0) , rgb(255, 255, 255));
+}
+#poetry_section{
+    background-image: linear-gradient(rgb(27, 18, 105), rgb(38, 54, 94), rgb(20, 109, 234));
+}
+#poetry_title {
+    text-align: center;
+    color: rgb(255, 0, 255);
+    font-size: 60px;
+    
+}
+
+#haikus_title {
+    font-size: 25px;
+}
+
+#haikus_tag {
+    border: 5px;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: #fff9f9;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+}
+#history_timeline{
+    font-size: 25px;
+    color: rgb(3, 3, 4);
+    font-weight: bold;
+}
+#timeline_titles{
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+}
+#timeline_title{
+    color:peachpuff;
+    font-size: 45px;
+}
+#acrostic_title{
+   color: white;
+}
+#works_cited{
+    color:rgb(9, 78, 253);
+}
+#american_revolution_works_cited_title{
+    font-size: 32;
+    color: peachpuff;
+}
+#title{
+    font-size: 80px;
+}
+#actual_title_XD{
+font-size: 80px;
+color: lime;
+}
+#work_cited_title{
+    color: peachpuff;
+}
+#background{
+    background-color: peachpuff;
+}
